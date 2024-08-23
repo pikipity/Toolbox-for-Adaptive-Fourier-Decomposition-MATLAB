@@ -1,4 +1,4 @@
-function [ ret ] = intg( f,g,Weigth)
+function ret = intg( f,g,Weigth)
 %input:'f' is an array;
 %      'g' is an array.
 

@@ -1,4 +1,4 @@
-function [ ret ] = e_a(a,z)
+function ret = e_a(a,z)
 %
 %input: 'a' is a point in the unit disk;
 %       'z' is a complex variable.
