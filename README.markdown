@@ -6,7 +6,7 @@ This toolbox contains **multiple implementations** of the AFD for different type
 
 This is the MATLAB version. You also can download this MATLAB version in [MathWork file exchange](https://www.mathworks.com/matlabcentral/fileexchange/62783-toolbox-for-adaptive-fourier-decomposition).
 
-You can find the Python version in [another repository](https://github.com/pikipity/Toolbox-for-Adaptive-Fourier-Decomposition). There is a [*online version*](https://afd.must.edu.mo/) based on Python version v2.0. You can try the AFD quickly.
+You can find the Python version in [another repository](https://github.com/pikipity/Toolbox-for-Adaptive-Fourier-Decomposition). There is an [*online version*](https://afd.must.edu.mo/) based on Python version v2.0. You can try the AFD quickly.
 
 Please check the [**document**](https://toolbox-for-adaptive-fourier-decomposition.readthedocs.io/) for detailed information. 
 
